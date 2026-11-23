@@ -26,10 +26,10 @@ I'm interested in building useful applications, exploring machine learning, and 
 
 | Project | What it does |
 | --- | --- |
-| [Cross-Domain Sentiment Analysis Engine](https://github.com/rishabhchaudhary2/svm_sentiment_engine) | Compares SVM sentiment models across movie reviews and social media text, with feature engineering, evaluation, and a FastAPI backend. |
-| [TabMind](https://github.com/rishabhchaudhary2/tab_mind) | Browser extension project using React and TypeScript, with a Python/FastAPI backend. |
+| [TabMind — AI-Powered Chrome Tab Manager](https://github.com/rishabhchaudhary2/tab_mind) | Organizes **100+ tabs** into semantic workspaces using transformer embeddings and Gemini-powered refinement. Built multi-tier search with Fuse.js, IndexedDB and Supabase/pgvector, plus real-time collaboration using Redis Pub/Sub and WebSockets. |
 | [AERO Gen V](https://github.com/rishabhchaudhary2/aero_genv) | Next.js web development project. |
-| [HDFS Replication Simulator](https://github.com/puranpalsingh/hdfs_rl) | Reinforcement-learning experiment using PPO to optimize data replication in a simulated HDFS cluster. |
+| [HDFS Replication Simulator](https://github.com/puranpalsingh/hdfs_rl) | Trained a **PPO reinforcement-learning agent** in a simulated 12-node, three-rack HDFS cluster, reducing storage use by **28%** versus static 3× replication. Improved composite reward by **55.8%** against a random-policy baseline over 500,000 training timesteps. |
+| [Cross-Domain Sentiment Analysis Engine](https://github.com/rishabhchaudhary2/svm_sentiment_engine) | Compares SVM sentiment models across movie reviews and social media text, with feature engineering, evaluation, and a FastAPI backend. |
 
 ### 📊 GitHub activity
 
