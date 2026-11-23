@@ -28,10 +28,8 @@ I'm interested in building useful applications, exploring machine learning, and 
 | --- | --- |
 | [Cross-Domain Sentiment Analysis Engine](https://github.com/rishabhchaudhary2/svm_sentiment_engine) | Compares SVM sentiment models across movie reviews and social media text, with feature engineering, evaluation, and a FastAPI backend. |
 | [TabMind](https://github.com/rishabhchaudhary2/tab_mind) | Browser extension project using React and TypeScript, with a Python/FastAPI backend. |
+| [AERO Gen V](https://github.com/rishabhchaudhary2/aero_genv) | Next.js web development project. |
 | [HDFS Replication Simulator](https://github.com/puranpalsingh/hdfs_rl) | Reinforcement-learning experiment using PPO to optimize data replication in a simulated HDFS cluster. |
-| [Brush Craft](https://github.com/rishabhchaudhary2/brush-craft) | Browser-based drawing app built with HTML, CSS, and JavaScript, with a sticky-notes feature. |
-| [AERO 2.0](https://github.com/rishabhchaudhary2/AERO-2.O) | Next.js web development project. |
-| [CSES](https://github.com/rishabhchaudhary2/CSES) | Repository for algorithmic problem-solving practice. |
 
 ### 📊 GitHub activity
 
