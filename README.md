@@ -42,7 +42,7 @@ I'm interested in building useful applications, exploring machine learning, and 
 
 I'm open to collaborating on interesting projects and exploring software engineering opportunities.
 
-[**LeetCode**](https://leetcode.com/u/rishbahchaudhary/) · [**Explore my repositories**](https://github.com/rishabhchaudhary2?tab=repositories)
+[**LeetCode**](https://leetcode.com/u/rishbahchaudhary/) · [**Resume**](https://github.com/rishabhchaudhary2/rishabhchaudhary2/blob/main/RESUME.md) · [**Explore my repositories**](https://github.com/rishabhchaudhary2?tab=repositories)
 
 ---
 
